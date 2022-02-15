@@ -5,5 +5,5 @@
    
   <h2>After Optimization</h2>
     <h3>Home Page</h3>
-      <<a href="https://ibb.co/fYdSB9V"><img src="https://i.ibb.co/KjxGRDc/optimize-after-1-se.png" alt="optimize-after-1-se" border="0"></a>" height="200px" />
+      <<a href="https://ibb.co/fYdSB9V"><img src="https://i.ibb.co/KjxGRDc/optimize-after-1-se.png" alt="optimize-after-1-se" border="0"></a>" 
    
