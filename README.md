@@ -7,5 +7,4 @@
     <h3>Home Page</h3>
       <a href="https://ibb.co/r0ytVVs"><img src="https://i.ibb.co/3dhsnnz/optimize-after-1search-engine.png" " alt="optimize-after-1-se" border="0"></a>" 
       
-      
-   file:///C:/Users/Ddrew/Downloads/Template-SEO-audit%20(2)%20-%20Feuil1%20(2).pdf
+    
