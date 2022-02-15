@@ -2,11 +2,8 @@
 <h2>Before Optimitazion</h2>
     <h3>Home Page</h3>
       <img src="https://i.ibb.co/FXyrjpZ/optimize-b4-hp1se.png" " height="200px" />
-    <h3>Contact Page</h3>
-      <img src="https://user-images.githubusercontent.com/73438491/114802437-8f2e7e00-9d52-11eb-920b-12650a488e20.JPG" height="200px" />
+   
   <h2>After Optimization</h2>
     <h3>Home Page</h3>
-      <img src="https://user-images.githubusercontent.com/73438491/114802679-f9dfb980-9d52-11eb-93fb-0892556a5e3d.JPG" height="200px" />
-    <h3>Contact Page</h3>
-  <img src="https://user-images.githubusercontent.com/73438491/114802676-f9472300-9d52-11eb-8166-f49e7c03ad06.JPG" height="200px" />                           
-</div>
+      <<a href="https://ibb.co/fYdSB9V"><img src="https://i.ibb.co/KjxGRDc/optimize-after-1-se.png" alt="optimize-after-1-se" border="0"></a>" height="200px" />
+   
